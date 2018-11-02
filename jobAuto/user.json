@@ -1,0 +1,9 @@
+{
+  "Role":{
+    "Software Engineer":["Engineering Manager"]
+  },
+  "Job Type":["Internship"],
+  "Compensation":{
+    "Salary":[35,100]
+  }
+}

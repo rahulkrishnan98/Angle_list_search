@@ -1,0 +1,7 @@
+{
+  "Role":{
+    "Software Engineer":["All","Mobile Developer","Frontend Developer","Backend Developer","Full-stack Developer","Engineering Manager","QA Engineer","DevOps","Software Architect"],
+    "Designer": ["All","UI/UX Designer","User Researcher","Visual Designer","Creative Director"]
+  },
+  "Job Type":["Full Time","Part Time","Internship"]
+}
