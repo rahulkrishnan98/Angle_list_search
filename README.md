@@ -1,2 +1,2 @@
 # Angle_list_search
-Automate the job search progress
+Automate the job search process
